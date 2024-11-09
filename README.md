@@ -1,6 +1,6 @@
 # OpenTelemetry Observability Stack
 
-A minimal observability stack demonstrating distributed tracing, metrics, and logging using OpenTelemetry, Tempo, Prometheus, and Loki.
+This is a minimal observability stack demonstrating Opentelemetry-distributed tracing, metrics, and logging-using Grafana, Tempo, Prometheus, and Loki.
 
 🔍 Complete observability stack demonstration using:
 - OpenTelemetry for instrumentation
